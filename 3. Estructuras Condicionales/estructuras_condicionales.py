@@ -119,7 +119,7 @@ if numero_user == 1:
 # Si selecciona 2, colocamos en minisculas
 elif numero_user == 2:
     print(nombre_usuario.lower())
-# Si selecciona 2, colocamos la primera letra en mayusculas
+# Si selecciona 3, colocamos la primera letra en mayusculas
 else:
     print(nombre_usuario.title())
 
