@@ -1,0 +1,6 @@
+iPhone 16, 1300, 10
+Samsung Ultra 24, 1100, 15
+Motorola Edge 55, 800, 5
+iPhone 17,1400,30
+Samsung Ultra 25,1200,19
+Xiaomi 15,850,4
